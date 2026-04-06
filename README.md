@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Teclab Library Information System
 
 ## Overview
