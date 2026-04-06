@@ -166,6 +166,7 @@ https://DakotaB75.github.io/Teclab_2A_Deliverable/
 ---
 
 ## Project Structure
+```text
 src/
 │
 ├── components/
@@ -176,6 +177,7 @@ src/
 ├── styles/
 ├── assets/
 └── main.tsx
+```
 
 The structure follows separation of concerns and reusable component patterns common in modern frontend architectures.
 
