@@ -205,17 +205,4 @@ Planned evolution includes:
 - relational database persistence
 - authentication and authorization
 - reporting engine
-- cloud deployment architecture
-=======
 
-  # Professional UI Wireframe
-
-  This is a code bundle for Professional UI Wireframe. The original project is available at https://www.figma.com/design/UuC67Cn7Y2WgCBt2I6uPTf/Professional-UI-Wireframe.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
->>>>>>> 10d0401e (First Phase - Rule StructureFirst Phase - Rule Structure)
