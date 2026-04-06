@@ -166,3 +166,40 @@ https://DakotaB75.github.io/Teclab_2A_Deliverable/
 ---
 
 ## Project Structure
+src/
+│
+├── components/
+│ ├── layout/
+│ ├── sections/
+│ └── ui/
+│
+├── styles/
+├── assets/
+└── main.tsx
+
+The structure follows separation of concerns and reusable component patterns common in modern frontend architectures.
+
+---
+
+## Engineering Approach
+
+This project intentionally prioritizes:
+
+- problem understanding before coding
+- system thinking over feature accumulation
+- clarity of architecture
+- incremental evolution
+
+The goal is not only to build an interface, but to demonstrate how **organizational analysis translates into software design decisions**.
+
+---
+
+## Future Roadmap
+
+Planned evolution includes:
+
+- REST API integration
+- relational database persistence
+- authentication and authorization
+- reporting engine
+- cloud deployment architecture
