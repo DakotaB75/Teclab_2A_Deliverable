@@ -113,7 +113,7 @@ export default function Conclusion() {
       </div>
 
       <div className="mt-8 text-center text-[14px] text-[#94a3b8] pt-8 border-t border-[rgba(148,163,184,0.2)]">
-        <p>Entregable Teclab 2A — System Analysis Case Study</p>
+        <p>Entregable Teclab 2A — Information Systems Analyst</p>
         <p className="mt-2">© 2026 Dakota Bazan</p>
       </div>
     </section>

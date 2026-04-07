@@ -21,7 +21,7 @@ export default function Sidebar({ activeSection, onNavigate }: SidebarProps) {
           ENTREGABLE TECLAB 2A
         </div>
         <div className="text-[14px] text-[#94a3b8]">
-          System Analysis Case Study
+          High fidelity Prototyping
         </div>
       </div>
 

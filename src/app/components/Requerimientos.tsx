@@ -11,10 +11,10 @@ export default function Requerimientos() {
   ];
 
   const noFuncionales = [
-    { titulo: 'Rendimiento', descripcion: 'Respuesta < 2 segundos', icon: '⚡' },
-    { titulo: 'Seguridad', descripcion: 'Encriptación de datos', icon: '🔒' },
-    { titulo: 'Disponibilidad', descripcion: 'Uptime > 99%', icon: '✓' },
-    { titulo: 'Escalabilidad', descripcion: 'Soportar crecimiento', icon: '📈' }
+    { titulo: 'Rendimiento', descripcion: 'Respuesta < 2 segundos', icon: '' },
+    { titulo: 'Seguridad', descripcion: 'Encriptación de datos', icon: '' },
+    { titulo: 'Disponibilidad', descripcion: 'Uptime > 99%', icon: '' },
+    { titulo: 'Escalabilidad', descripcion: 'Soportar crecimiento', icon: '' }
   ];
 
   return (

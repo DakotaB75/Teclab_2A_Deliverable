@@ -9,7 +9,7 @@ export default function Overview() {
   return (
     <section className="opacity-0 translate-y-5 animate-[fadeIn_0.8s_ease-out_forwards]">
       <div className="text-[14px] text-[#38bdf8] font-medium mb-3 tracking-wide">
-        Case Study — System Analysis
+        Information Systems Design
       </div>
       <div className="text-[14px] text-[#94a3b8] mb-2">
         Frontend Documentation Experience
@@ -22,7 +22,7 @@ export default function Overview() {
         Sistema de Información — Biblioteca Teclab
       </h1>
       <p className="text-[16px] text-[#94a3b8] mb-12 leading-relaxed">
-        System Analysis Case Study
+        Interactive prototype of the proposed web system.
       </p>
 
       <div className="grid grid-cols-4 gap-6">
