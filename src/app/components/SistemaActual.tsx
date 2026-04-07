@@ -57,34 +57,34 @@ export default function SistemaActual() {
       </div>
       <br />
 
-      <div className="flex flex-wrap justify-center gap-4">
+  <div className="flex flex-wrap justify-center gap-4">
 
-        <a
-          href="/docs/analisis-sistema-biblioteca-teclab.pdf"
-          download
-          className="px-6 py-3 rounded-lg bg-[#38bdf8] text-[#020617] font-medium hover:opacity-90 transition"
-        >
-          Download: Análisis del Sistema Biblioteca Teclab
-        </a>
+  <a
+    href={`${import.meta.env.BASE_URL}docs/Analisis.pdf`}
+    download
+    className="px-6 py-3 rounded-lg bg-[#38bdf8] text-[#020617] font-medium hover:opacity-90 transition"
+  >
+    Download: Análisis del Sistema Biblioteca Teclab
+  </a>
 
-        <a
-          href="/docs/plan-trabajo-organizacional.pdf"
-          download
-          className="px-6 py-3 rounded-lg bg-[#1e293b] text-[#e2e8f0] border border-[rgba(148,163,184,0.2)] hover:bg-[#334155] transition"
-        >
-          Download: Plan de Trabajo - Organizacional
-        </a>
+  <a
+    href={`${import.meta.env.BASE_URL}docs/PlanTrabajo.pdf`}
+    download
+    className="px-6 py-3 rounded-lg bg-[#1e293b] text-[#e2e8f0] border border-[rgba(148,163,184,0.2)] hover:bg-[#334155] transition"
+  >
+    Download: Plan de Trabajo - Organizacional
+  </a>
 
-        <a
-          href="https://github.com/DakotaB75/Teclab_2A_Deliverable"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="px-6 py-3 rounded-lg bg-transparent border border-[#38bdf8] text-[#38bdf8] hover:bg-[#38bdf8]/10 transition"
-        >
-          Ver repositorio GitHub
-        </a>
+  <a
+    href="https://github.com/DakotaB75/Teclab_2A_Deliverable"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="px-6 py-3 rounded-lg bg-transparent border border-[#38bdf8] text-[#38bdf8] hover:bg-[#38bdf8]/10 transition"
+  >
+    Ver repositorio GitHub
+  </a>
 
-      </div>
+</div>
     </section>
   );
 }
