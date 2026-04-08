@@ -1,7 +1,14 @@
-# Teclab Library Information System
+![Status](https://img.shields.io/badge/status-academic%20prototype-blue)
+![Architecture](https://img.shields.io/badge/architecture-component--based-informational)
+![Systems Analysis](https://img.shields.io/badge/systems%20analysis-driven-orange)
+![Maintained](https://img.shields.io/badge/maintained-yes-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 <p align="center">
   <img src="public/Portada_Readme.png" alt="Project Cover" width="900"/>
 </p>
+
+# Teclab Library Information System
 
 ## Academic Team
 
