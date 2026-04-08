@@ -1,4 +1,18 @@
 # Teclab Library Information System
+<p align="center">
+  <img src="public/Portada_Readme.png" alt="Project Cover" width="900"/>
+</p>
+
+## Academic Team
+
+Project developed with academic and technical guidance from:
+
+- **Martin Bonino** — Mentor
+- **Aquiles Gonzalez** — Expert Tutor
+- **Caterina Murray** — Teclab Tutor
+- **Miguel Bellido** — Teclab Tutor IT
+
+---
 
 ## Overview
 

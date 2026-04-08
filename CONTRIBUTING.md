@@ -90,16 +90,6 @@ PRs may be reviewed for:
 
 ---
 
-## Contributors
-
-Project developed with academic and technical guidance from:
-
-- **Martin Bonino** — Mentor
-- **Aquiles Gonzalez** — Expert Tutor
-- **Caterina Murray** — Teclab Tutor
-
----
-
 ## Communication
 
 Be respectful, precise, and constructive in discussions.  
