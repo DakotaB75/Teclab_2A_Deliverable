@@ -1,8 +1,11 @@
 ![Status](https://img.shields.io/badge/status-academic%20prototype-blue)
-![Architecture](https://img.shields.io/badge/architecture-component--based-informational)
-![Systems Analysis](https://img.shields.io/badge/systems%20analysis-driven-orange)
+![Architecture](https://img.shields.io/badge/architecture-component--based-blue)
+![Systems Analysis](https://img.shields.io/badge/systems%20analysis-driven-blue)
+![Documentation](https://img.shields.io/badge/documentation-engineering%20grade-blue)
+
 ![Maintained](https://img.shields.io/badge/maintained-yes-success)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Open Source](https://img.shields.io/badge/open%20source-friendly-success)
+![License](https://img.shields.io/badge/license-MIT-success)
 
 <p align="center">
   <img src="public/Portada_Readme.png" alt="Project Cover" width="900"/>
