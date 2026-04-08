@@ -4,8 +4,10 @@
 ![Documentation](https://img.shields.io/badge/documentation-engineering%20grade-blue)
 
 ![Maintained](https://img.shields.io/badge/maintained-yes-success)
-![Open Source](https://img.shields.io/badge/open%20source-friendly-success)
+![Senior Level of Managers](https://img.shields.io/badge/Senior%20Level-success)
 ![License](https://img.shields.io/badge/license-MIT-success)
+![Version](https://img.shields.io/badge/version-v1.0.0-green)
+![Teclab](https://img.shields.io/badge/Teclab%20Advanced%20Expert-blue)
 
 <p align="center">
   <img src="public/Portada_Readme.png" alt="Project Cover" width="900"/>
