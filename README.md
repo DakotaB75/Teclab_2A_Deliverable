@@ -2,7 +2,6 @@
 ![Architecture](https://img.shields.io/badge/architecture-component--based-blue)
 ![Systems Analysis](https://img.shields.io/badge/systems%20analysis-driven-blue)
 ![Documentation](https://img.shields.io/badge/documentation-engineering%20grade-blue)
-
 ![Maintained](https://img.shields.io/badge/maintained-yes-success)
 ![Senior Level of Managers](https://img.shields.io/badge/Senior%20Level-success)
 ![License](https://img.shields.io/badge/license-MIT-success)
