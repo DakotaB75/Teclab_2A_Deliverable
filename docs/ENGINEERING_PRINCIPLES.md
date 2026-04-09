@@ -8,7 +8,7 @@ El desarrollo debe comenzar entendiendo el problema antes de elegir herramientas
 Elegir tecnología sin comprender el problema puede generar soluciones innecesariamente complejas o ineficientes. En ingeniería de software, el foco debe estar en el valor que se entrega.
 
 **Application in This Project**  
-Las decisiones técnicas se toman en función de los requerimientos del sistema, priorizando funcionalidad y claridad sobre tendencias tecnológicas.
+Las decisiones técnicas se toman en función de los requerimientos del sistema, priorizando funcionalidad y claridad sobre tendencias tecnológicas..
 
 **Contributor Guidance**  
 Antes de implementar, validar que el cambio resuelve un problema concreto. Evitar introducir tecnologías o librerías sin justificación clara.
