@@ -62,6 +62,12 @@ Frontend stack:
 - TypeScript
 - Tailwind CSS
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/DakotaB75/Teclab_2A_Deliverable/ce549ccb5c39abd1edb45a4d5477c6b8055518d5/POSTMAN.png" 
+        alt="Postman Screenshot" 
+        width="900"/>
+</p>
+
 ---
 
 ### 3. Code Style
