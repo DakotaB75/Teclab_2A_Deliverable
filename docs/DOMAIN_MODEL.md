@@ -25,7 +25,7 @@ tracking the lifecycle of books from availability to loan and return.
 ## 3. Domain Entities
 
 ### Book
-Represents a physical or cataloged item.
+Represents a cataloged library item whose availability and lifecycle are managed by lending operations.
 
 Attributes:
 - id
@@ -36,14 +36,13 @@ Attributes:
 - availabilityStatus
 
 Responsibilities:
-- maintain inventory state
-- participate in loans and reservations
-
+- Encapsulate inventory state and metadata.
+- Act as the subject of lending transactions and reservation queues.
 ---
 
 ### User
 
-Represents a system actor.
+Represents an authorized system actor with specific permissions and responsibilities.
 
 Attributes:
 - id
@@ -60,7 +59,7 @@ Roles:
 
 ### Loan
 
-Represents the borrowing transaction.
+Represents the formal contractual transaction between the library and a user for the temporary possession of an asset.
 
 Attributes:
 - loanId
@@ -71,14 +70,14 @@ Attributes:
 - status
 
 Rules:
-- a book cannot be loaned if unavailable
-- loans generate historical records
+- Asset availability is a prerequisite for loan initiation.
+- Loans serve as the primary source for historical activity records.
 
 ---
 
 ### Reservation
 
-Represents future borrowing intent.
+Represents a formal intent for future borrowing, securing an asset's availability for a specific user.
 
 Attributes:
 - reservationId
@@ -90,7 +89,7 @@ Attributes:
 
 ### Fine
 
-Represents penalties derived from overdue returns.
+Represents financial or administrative penalties triggered by breaches in lending terms, such as overdue returns.
 
 Attributes:
 - fineId
@@ -102,7 +101,7 @@ Attributes:
 
 ## 4. Value Objects
 
-Value objects describe concepts without identity.
+Value Objects are descriptive elements of the domain that are defined by their attributes rather than a persistent identity.
 
 Examples:
 - DateRange
@@ -124,13 +123,14 @@ Loan acts as aggregate root.
 ---
 
 ## 6. Bounded Contexts
+The system is divided into logical boundaries where terms and rules remain consistent to reduce conceptual complexity.
 
 | Context | Responsibility |
 |--------|---------------|
-| Catalog Management | book metadata |
-| Lending Management | loans and returns |
-| User Management | roles and access |
-| Reporting | analytics and history |
+| Catalog Management | Governance of book metadata |
+| Lending Management | Loans and returns |
+| User Management | Administration of identity, roles, and access control. |
+| Reporting | Generation of analytical insights and immutable historical data. |
 
 ---
 

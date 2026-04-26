@@ -75,3 +75,10 @@ Planned improvements:
 - cloud security configuration
 
 Security maturity will evolve alongside system implementation.
+
+## Security Contact and Response Expectations
+
+Security reports are reviewed by the project maintainer and handled responsibly.
+Contributors can expect an acknowledgment within a few days.
+All vulnerabilities are treated with care and confidentiality.
+The project encourages a collaborative approach to resolving security issues.

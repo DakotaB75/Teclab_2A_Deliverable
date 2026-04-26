@@ -9,7 +9,7 @@
 ![Teclab](https://img.shields.io/badge/Teclab%20Advanced%20Expert-blue)
 
 <p align="center">
-  <img src="public/Portada_Readme.png" alt="Project Cover" width="900"/>
+   <img src="ZoomWorkplace_Teclab.png" alt="Zoom Collaboration Session" width="900"/>
 </p>
 
 # Teclab Library Information System
@@ -18,10 +18,11 @@
 
 Project developed with academic and technical guidance from:
 
-- **Martin Bonino** — Mentor
+- **Martin Bonino** — Teclab Mentor 
 - **Aquiles Gonzalez** — Expert Tutor
 - **Caterina Murray** — Teclab Tutor
 - **Miguel Bellido** — Teclab Tutor IT
+- **Nicolas Bustamante** — Teclab Mentor 
 
 ---
 
